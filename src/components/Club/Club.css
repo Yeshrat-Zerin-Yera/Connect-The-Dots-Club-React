@@ -55,14 +55,14 @@
     .club {
         grid-template-columns: 1fr 1fr;
     }
+
+    .activities {
+        grid-template-columns: repeat(1, 1fr);
+    }
 }
 
 @media (max-width: 800px) {
     .club {
         grid-template-columns: 1fr;
-    }
-
-    .activities {
-        grid-template-columns: repeat(1, 1fr);
     }
 }

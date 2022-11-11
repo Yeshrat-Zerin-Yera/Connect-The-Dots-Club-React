@@ -28,6 +28,18 @@
     background-image: linear-gradient(to right, #17224D, #17E9E1);
 }
 
+@media (max-width: 1800px) and (min-width: 1400px) {
+    .activity-img {
+        height: 50%;
+    }
+}
+
+@media (max-width: 800px) and (min-width: 600px) {
+    .activity-img {
+        height: 50%;
+    }
+}
+
 @media (max-width: 400px) {
     .activity-info {
         margin-bottom: 10%;
