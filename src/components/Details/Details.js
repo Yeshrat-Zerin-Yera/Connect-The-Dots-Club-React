@@ -1,8 +1,25 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import './Details.css';
 import Profile from '../../images/profile.jpeg';
 
-const Details = () => {
+const Details = ({ activityTime }) => {
+    const [breakTime, setBreakTime] = useState(0);
+
+    useEffect(() => {
+        const breakTime = localStorage.getItem('Break Time');
+        if (breakTime) {
+            setBreakTime(breakTime);
+        }
+        else {
+            localStorage.setItem('Break Time', 0);
+        }
+    }, [])
+
+    const handleBreakTime = (time) => {
+        setBreakTime(time);
+        localStorage.setItem('Break Time', time);
+    }
+
     return (
         <div className='details'>
             <div className='profile'>
@@ -28,21 +45,21 @@ const Details = () => {
             </div>
             <h2>Select Break</h2>
             <div className='breaks'>
-                <p>10s</p>
-                <p>20s</p>
-                <p>30s</p>
-                <p>40s</p>
-                <p>60s</p>
+                <p onClick={() => handleBreakTime(10)}>10s</p>
+                <p onClick={() => handleBreakTime(20)}>20s</p>
+                <p onClick={() => handleBreakTime(30)}>30s</p>
+                <p onClick={() => handleBreakTime(40)}>40s</p>
+                <p onClick={() => handleBreakTime(60)}>60s</p>
             </div>
             <h2>Activity Details</h2>
             <div className='activity-details'>
                 <div className='activity-time'>
                     <h3>Activity Time</h3>
-                    <h3><span>0</span> Seconds</h3>
+                    <h3><span>{activityTime}</span> Seconds</h3>
                 </div>
                 <div className='break-time'>
                     <h3>Break Time</h3>
-                    <h3><span>0</span> Seconds</h3>
+                    <h3>{breakTime} Seconds</h3>
                 </div>
             </div>
             <button className='activity-completed-btn'>Activity Completed</button>

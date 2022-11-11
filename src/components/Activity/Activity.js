@@ -1,7 +1,7 @@
 import React from 'react';
 import './Activity.css';
 
-const Activity = ({ activity }) => {
+const Activity = ({ activity, handleActivityTime }) => {
     const { img, name, info, age, time } = activity;
     return (
         <div className='activity'>
@@ -12,7 +12,7 @@ const Activity = ({ activity }) => {
                 <p><b>For Age: {age}</b></p>
                 <p><b>Time Required: {time}s</b></p>
             </div>
-            <button className='add-to-list-btn'>Add To List</button>
+            <button onClick={() => handleActivityTime(time)} className='add-to-list-btn'>Add To List</button>
         </div>
     );
 };
