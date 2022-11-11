@@ -1,0 +1,30 @@
+.club {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    color: #17224D;
+}
+
+.activities-container {
+    margin: 5%;
+}
+
+.club-title {
+    display: flex;
+    align-items: center;
+}
+
+.club-logo {
+    height: 50px;
+    width: 50px;
+}
+
+.club-name {
+    margin-left: 5px;
+}
+
+.activities {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 40px;
+    margin-top: 40px;
+}

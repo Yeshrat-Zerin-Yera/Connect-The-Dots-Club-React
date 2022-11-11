@@ -1,0 +1,24 @@
+.activity {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.activity-img {
+    width: 100%;
+}
+
+.activity-details {
+    padding: 0 10px 20px;
+}
+
+.addToListBtn {
+    width: 100%;
+    padding: 15px;
+    border: none;
+    background: #17224D;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.addToListBtn:hover {
+    background-image: linear-gradient(to right, #17224D, #17E9E1);
+}
