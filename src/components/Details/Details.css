@@ -1,0 +1,77 @@
+.details {
+    position: sticky;
+    top: 0;
+    padding: 5%;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10%;
+}
+
+.profile-img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.profile-details {
+    margin-left: 5px;
+}
+
+.profile-details p,
+.profile-details h2 {
+    margin: 0;
+}
+
+.physical-info,
+.activity-time,
+.break-time {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    background: lightcyan;
+    padding: 20px 0;
+    margin-bottom: 10%;
+}
+
+.physical-info h2,
+.physical-info p {
+    margin: 5px;
+}
+
+.breaks {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    margin-bottom: 10%;
+}
+
+.breaks p {
+    font-weight: bold;
+    color: #ffffff;
+    background: #17224D;
+    padding: 5%;
+}
+
+.breaks p:hover {
+    background-image: linear-gradient(to right, #17224D, #17E9E1);
+}
+
+.activity-details {
+    margin-bottom: 10%;
+}
+
+.activity-completed-btn {
+    width: 100%;
+    padding: 20px;
+    border: none;
+    background: #17224D;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.activity-completed-btn:hover {
+    background-image: linear-gradient(to right, #17224D, #17E9E1);
+}

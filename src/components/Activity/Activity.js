@@ -6,13 +6,13 @@ const Activity = ({ activity }) => {
     return (
         <div className='activity'>
             <img src={img} className='activity-img' alt=''></img>
-            <div className='activity-details'>
+            <div className='activity-info'>
                 <h3>{name}</h3>
                 <p>{info}</p>
                 <p><b>For Age: {age}</b></p>
                 <p><b>Time Required: {time}s</b></p>
             </div>
-            <button className='addToListBtn'>Add To List</button>
+            <button className='add-to-list-btn'>Add To List</button>
         </div>
     );
 };

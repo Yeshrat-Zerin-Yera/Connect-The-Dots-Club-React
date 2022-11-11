@@ -1,24 +1,29 @@
 .activity {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: relative;
 }
 
 .activity-img {
     width: 100%;
+    height: 50%;
 }
 
-.activity-details {
+.activity-info {
     padding: 0 10px 20px;
+    margin-bottom: 10%;
 }
 
-.addToListBtn {
+.add-to-list-btn {
     width: 100%;
     padding: 15px;
     border: none;
     background: #17224D;
     color: #ffffff;
     font-size: 18px;
+    position: absolute;
+    bottom: 0;
 }
 
-.addToListBtn:hover {
+.add-to-list-btn:hover {
     background-image: linear-gradient(to right, #17224D, #17E9E1);
 }
