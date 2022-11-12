@@ -10,7 +10,7 @@ const Activity = ({ activity, handleActivityTime }) => {
                 <h3>{name}</h3>
                 <p>{info}</p>
                 <p><b>For Age: {age}</b></p>
-                <p><b>Time Required: {time}s</b></p>
+                <p><b>Time Required: {time}min</b></p>
             </div>
             <button onClick={() => handleActivityTime(time)} className='add-to-list-btn'>Add To List</button>
         </div>

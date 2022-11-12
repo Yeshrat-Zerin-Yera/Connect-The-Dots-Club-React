@@ -45,26 +45,26 @@ const Details = ({ activityTime }) => {
                 </div>
                 <div>
                     <h2>24<small>yrs</small></h2>
-                    <p>Weight</p>
+                    <p>Age</p>
                 </div>
             </div>
             <h2>Select Break</h2>
             <div className='breaks'>
-                <p onClick={() => handleBreakTime(10)}>10s</p>
-                <p onClick={() => handleBreakTime(20)}>20s</p>
-                <p onClick={() => handleBreakTime(30)}>30s</p>
-                <p onClick={() => handleBreakTime(40)}>40s</p>
-                <p onClick={() => handleBreakTime(60)}>60s</p>
+                <p onClick={() => handleBreakTime(10)}>10min</p>
+                <p onClick={() => handleBreakTime(20)}>20min</p>
+                <p onClick={() => handleBreakTime(30)}>30min</p>
+                <p onClick={() => handleBreakTime(40)}>40min</p>
+                <p onClick={() => handleBreakTime(60)}>60min</p>
             </div>
             <h2>Activity Details</h2>
             <div className='activity-details'>
                 <div className='activity-time'>
                     <h3>Activity Time</h3>
-                    <h3><span>{activityTime}</span> Seconds</h3>
+                    <h3><span>{activityTime}</span> Minutes</h3>
                 </div>
                 <div className='break-time'>
                     <h3>Break Time</h3>
-                    <h3>{breakTime} Seconds</h3>
+                    <h3>{breakTime} Minutes</h3>
                 </div>
             </div>
             <button onClick={notify} className='activity-completed-btn'>Activity Completed</button>

@@ -12,15 +12,15 @@
         "name": "Golf",
         "info": "Golf exercises your heart and keeps your heart rate up. This will naturally lower your risk for heart disease and other cardiovascular issues.",
         "age": "30-60",
-        "time": 40,
-        "img": "https://images.pexels.com/photos/274133/pexels-photo-274133.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "time": 120,
+        "img": "https://images.pexels.com/photos/4475588/pexels-photo-4475588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": "d48e0fcb-904c-499e-93a0-312d77e6dbf9",
         "name": "Tennis",
         "info": "Through playing tennis, the physical activity can aid in flushing bacteria out of the airways and out of the lungs.",
         "age": "15-30",
-        "time": 50,
+        "time": 90,
         "img": "https://images.pexels.com/photos/4931355/pexels-photo-4931355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
@@ -28,7 +28,7 @@
         "name": "Basketball",
         "info": "Playing basketball helps to improve motor coordination, flexibility, and endurance. It also encourages speed, agility, and strength.",
         "age": "25-30",
-        "time": 60,
+        "time": 50,
         "img": "https://images.pexels.com/photos/13104591/pexels-photo-13104591.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
@@ -36,7 +36,7 @@
         "name": "Football",
         "info": "The combination of running, walking, sprinting and kicking can bring benefits including increased stamina, improved cardiovascular health.",
         "age": "20-30",
-        "time": 80,
+        "time": 90,
         "img": "https://images.pexels.com/photos/5467303/pexels-photo-5467303.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
@@ -45,54 +45,54 @@
         "info": "Archery eases arthritis pain for some people through consistent practice and muscle memory. In addition, it improves hand-eye coordination.",
         "age": "20-30",
         "time": 30,
-        "img": "https://images.pexels.com/photos/6540717/pexels-photo-6540717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/163533/arrow-arrows-bow-and-arrow-archery-163533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-        "id": "f6a5e6c0-5aec-4f10-84d7-bde9b6199045",
-        "name": "Archery",
-        "info": "Archery eases arthritis pain for some people through consistent practice and muscle memory. In addition, it improves hand-eye coordination.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/6540717/pexels-photo-6540717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "id": "625b4b60-611c-490c-ac0a-f3c2d2afd05c",
+        "name": "Swim",
+        "info": "One of the biggest benefits of swimming is that it truly works your entire body, head to toe. Also, increases your heart rate without stressing your body.",
+        "age": "10-30",
+        "time": 60,
+        "img": "https://images.pexels.com/photos/5615795/pexels-photo-5615795.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-        "id": "f6a5e6c0-5aec-4f10-84d7-bde9b6199045",
-        "name": "Archery",
-        "info": "Archery eases arthritis pain for some people through consistent practice and muscle memory. In addition, it improves hand-eye coordination.",
+        "id": "5960bf40-9603-4a39-9ff6-6cf9f1ce4815",
+        "name": "Table Tennis",
+        "info": "Maintains and improves your fitness level. Improves your reflexes and reaction time. It's good for the brain.",
         "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/6540717/pexels-photo-6540717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "time": 40,
+        "img": "https://images.pexels.com/photos/187329/pexels-photo-187329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-        "id": "f6a5e6c0-5aec-4f10-84d7-bde9b6199045",
-        "name": "Archery",
-        "info": "Archery eases arthritis pain for some people through consistent practice and muscle memory. In addition, it improves hand-eye coordination.",
-        "age": "20-30",
+        "id": "5991add1-f4ba-4fb9-9b6b-ec59aa2dda60",
+        "name": "Run",
+        "info": "Running Improves Your Health Believe it or not, running is actually a great way to increase your overall level of health.",
+        "age": "40-50",
         "time": 30,
-        "img": "https://images.pexels.com/photos/6540717/pexels-photo-6540717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/2803160/pexels-photo-2803160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-        "id": "f6a5e6c0-5aec-4f10-84d7-bde9b6199045",
-        "name": "Archery",
-        "info": "Archery eases arthritis pain for some people through consistent practice and muscle memory. In addition, it improves hand-eye coordination.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/6540717/pexels-photo-6540717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "id": "5690e579-a943-4b42-9ffe-dfc65b71c560",
+        "name": "Board Game",
+        "info": "Board games help the brain retain and build cognitive associations well into old age too. Playing board games is entertaining.",
+        "age": "10-40",
+        "time": 60,
+        "img": "https://images.pexels.com/photos/278888/pexels-photo-278888.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-        "id": "f6a5e6c0-5aec-4f10-84d7-bde9b6199045",
-        "name": "Archery",
-        "info": "Archery eases arthritis pain for some people through consistent practice and muscle memory. In addition, it improves hand-eye coordination.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/6540717/pexels-photo-6540717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "id": "4a0090e7-b65d-4f6e-a42b-5603a3f51883",
+        "name": "Read",
+        "info": "Reading can lead to a lower heart rate blood pressure, a calmer mind and can bring your stress levels down.",
+        "age": "25-50",
+        "time": 80,
+        "img": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-        "id": "f6a5e6c0-5aec-4f10-84d7-bde9b6199045",
-        "name": "Archery",
-        "info": "Archery eases arthritis pain for some people through consistent practice and muscle memory. In addition, it improves hand-eye coordination.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/6540717/pexels-photo-6540717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "id": "0ac76ee7-53f1-45ba-b5ca-81ff6063bc1a",
+        "name": "Art",
+        "info": "Art education helps student perform better on assessments, these students show greater flexibility and arability in thinking.",
+        "age": "15-30",
+        "time": 40,
+        "img": "https://images.pexels.com/photos/7302064/pexels-photo-7302064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
 ]

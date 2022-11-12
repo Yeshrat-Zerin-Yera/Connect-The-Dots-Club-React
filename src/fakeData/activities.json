@@ -1,202 +1,98 @@
 [
     {
         "id": "b1872b25-ba91-48ed-9468-1822df0637b9",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
+        "name": "Exercise",
+        "info": "Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
         "age": "20-30",
         "time": 30,
         "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": "ea028038-4e9d-42bf-b033-88aa5e6cc477",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "name": "Golf",
+        "info": "Golf exercises your heart and keeps your heart rate up. This will naturally lower your risk for heart disease and other cardiovascular issues.",
+        "age": "30-60",
+        "time": 120,
+        "img": "https://images.pexels.com/photos/4475588/pexels-photo-4475588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": "d48e0fcb-904c-499e-93a0-312d77e6dbf9",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "name": "Tennis",
+        "info": "Through playing tennis, the physical activity can aid in flushing bacteria out of the airways and out of the lungs.",
+        "age": "15-30",
+        "time": 90,
+        "img": "https://images.pexels.com/photos/4931355/pexels-photo-4931355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": "71dfc7f9-844b-4be7-816f-891a5cbaa0f1",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "name": "Basketball",
+        "info": "Playing basketball helps to improve motor coordination, flexibility, and endurance. It also encourages speed, agility, and strength.",
+        "age": "25-30",
+        "time": 50,
+        "img": "https://images.pexels.com/photos/13104591/pexels-photo-13104591.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": "a9d89eac-7418-4bca-a484-c8238c356270",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
+        "name": "Football",
+        "info": "The combination of running, walking, sprinting and kicking can bring benefits including increased stamina, improved cardiovascular health.",
         "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "time": 90,
+        "img": "https://images.pexels.com/photos/5467303/pexels-photo-5467303.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": "f6a5e6c0-5aec-4f10-84d7-bde9b6199045",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
+        "name": "Archery",
+        "info": "Archery eases arthritis pain for some people through consistent practice and muscle memory. In addition, it improves hand-eye coordination.",
         "age": "20-30",
         "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/163533/arrow-arrows-bow-and-arrow-archery-163533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": "625b4b60-611c-490c-ac0a-f3c2d2afd05c",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "name": "Swim",
+        "info": "One of the biggest benefits of swimming is that it truly works your entire body, head to toe. Also, increases your heart rate without stressing your body.",
+        "age": "10-30",
+        "time": 60,
+        "img": "https://images.pexels.com/photos/5615795/pexels-photo-5615795.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": "5960bf40-9603-4a39-9ff6-6cf9f1ce4815",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
+        "name": "Table Tennis",
+        "info": "Maintains and improves your fitness level. Improves your reflexes and reaction time. It's good for the brain.",
         "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "time": 40,
+        "img": "https://images.pexels.com/photos/187329/pexels-photo-187329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": "5991add1-f4ba-4fb9-9b6b-ec59aa2dda60",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
+        "name": "Run",
+        "info": "Running Improves Your Health Believe it or not, running is actually a great way to increase your overall level of health.",
+        "age": "40-50",
         "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/2803160/pexels-photo-2803160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": "5690e579-a943-4b42-9ffe-dfc65b71c560",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "name": "Board Game",
+        "info": "Board games help the brain retain and build cognitive associations well into old age too. Playing board games is entertaining.",
+        "age": "10-40",
+        "time": 60,
+        "img": "https://images.pexels.com/photos/278888/pexels-photo-278888.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": "4a0090e7-b65d-4f6e-a42b-5603a3f51883",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "name": "Read",
+        "info": "Reading can lead to a lower heart rate blood pressure, a calmer mind and can bring your stress levels down.",
+        "age": "25-50",
+        "time": 80,
+        "img": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": "0ac76ee7-53f1-45ba-b5ca-81ff6063bc1a",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": "1770549a-571b-4baf-bc58-7bae7a228dcb",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": "24b20ba6-9024-4b0a-b8a9-cf937521cede",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": "a7231186-0316-4cc0-94bf-4f496a382346",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": "35ac57f9-870a-4299-aac8-e5d8d2716b31",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": "c50bebaf-2633-4674-aba2-25be34bfdbba",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": "ff5bf372-7ed1-4904-aac5-7a2ce98e70ef",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": "83ef9902-0224-48d3-ba7c-eeff3e678d13",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": "7490b4c8-8242-4de5-b161-b8ac96ea0e0b",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
-        "name": "Workout",
-        "info": " Exercise is crucial to supporting a healthy metabolism and burning more calories per day. It also helps you maintain your muscle mass and weight loss.",
-        "age": "20-30",
-        "time": 30,
-        "img": "https://images.pexels.com/photos/4498607/pexels-photo-4498607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "name": "Art",
+        "info": "Art education helps student perform better on assessments, these students show greater flexibility and arability in thinking.",
+        "age": "15-30",
+        "time": 40,
+        "img": "https://images.pexels.com/photos/7302064/pexels-photo-7302064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
 ]
